@@ -1,3 +1,4 @@
+a = 'hello'
 
 def fun():
 	print('woo')
